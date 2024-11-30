@@ -5,3 +5,4 @@ def func1() -> Any:
 
 def fucn2():
     pass
+
